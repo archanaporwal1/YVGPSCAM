@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan to fix the Camera2CameraImpl 10000ms camera reopening timeout by gating CameraX initialization on runtime camera permission, validating hardware lens availability, observing CameraState errors to unbind immediately and switch to the interactive simulated field viewfinder, and adding a top-bar lens and simulation mode toggle.",
+  "updatedAt":  "2026-11-09T19:08:33.711236428Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

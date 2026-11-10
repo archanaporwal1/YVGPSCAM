@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">YVGSPCAM</string>
+    <string name="camera_tab">Camera</string>
+    <string name="gallery_tab">Gallery</string>
+    <string name="templates_tab">Templates</string>
+    <string name="offline_map_tab">Map Cache</string>
+    <string name="capture_photo">Capture Photo</string>
+    <string name="export_batch">Batch Export</string>
+</resources>
